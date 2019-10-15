@@ -1,0 +1,1 @@
+    Black is the available path, please click the black part twice to determine the starting point and the ending point, the game will start automatically after the starting point and the ending point are determined.
